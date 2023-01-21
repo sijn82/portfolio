@@ -26,7 +26,7 @@ I would like to create a simple choose your own adventure game for logged in use
     -w /var/www/html \
     laravelsail/php82-composer:latest \
     composer install --ignore-platform-reqs`
-- copy and paste the .env.example file and rename to .env
+- copy and paste the `.env.example` file and rename to `.env`
 - change `DB_HOST` from `127.0.0.1` to `mysql` and `DB_USERNAME` from `root` to `sail` and update `DB_PASSWORD` to whatever you'd like.
 - optionally configure an alias for sail, or where you subsequently see the command `sail` below in these instructions replace it with `./vendor/bin/sail`
 - if configuring the alias copy and paste the following - `alias sail='[ -f sail ] && sh sail || sh vendor/bin/sail'`
