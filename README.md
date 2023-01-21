@@ -1,6 +1,6 @@
 # Portfolio Project Overview
 
-This repo will become a multiuse project where I can continue to iterate on ideas.  The first question is whether this is even a good setup where the goal is so ambiguous.  The key components so far are;
+This repo will become a multi-use project where I can continue to iterate on ideas.  The first question is whether this is even a good setup where the goal is so ambiguous.  The key components so far are;
 
 - Laravel API with Breeze Authentication
 - Next.js
