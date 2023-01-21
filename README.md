@@ -13,7 +13,8 @@ The base project template came from - https://github.com/laravel/breeze-next, th
 
 I would like to create a simple choose your own adventure game for logged in users.  Some of their data will be saved to the db while session data created via events in the game will be held by the mobx store.
 
-# Installation (assuming you wish to use the Sail environment included, otherwise consider following the original template installion in the link above)
+# Installation
+(assuming you wish to use the Sail environment included, otherwise consider following the original template installation in the link above)
 
 - Install Docker Desktop
 - git clone project - 
