@@ -18,7 +18,7 @@ I would like to create a simple choose your own adventure game for logged in use
 
 - Install Docker Desktop
 - Git clone project - `git@github.com:sijn82/portfolio.git`
-- `cd portfolio`
+- `cd portfolio` in terminal to enter the project root
 - Install composer depedancies including Sail using the following command
 `docker run --rm \
     -u "$(id -u):$(id -g)" \
