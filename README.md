@@ -17,7 +17,7 @@ I would like to create a simple choose your own adventure game for logged in use
 (assuming you wish to use the Sail environment included, otherwise consider following the original template installation in the link above)
 
 - Install Docker Desktop
-- git clone project - 
+- git clone project - `git@github.com:sijn82/portfolio.git`
 - cd into project root
 - Install composer depedancies including Sail using the following command
 `docker run --rm \
@@ -40,4 +40,4 @@ I would like to create a simple choose your own adventure game for logged in use
 - copy and paste the `.env.example` file and rename to `.env.local` - it contains only one variable right now NEXT_PUBLIC_BACKEND_URL - just like before we need to remove the port from the url.
 - npm run dev
 
-# If everything has gone to plan, then you should be able to register a new user and login to the dashboard.
+If everything has gone to plan, then you should be able to register a new user and login to the dashboard.
